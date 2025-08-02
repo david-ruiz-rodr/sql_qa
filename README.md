@@ -24,10 +24,10 @@ An AI-powered SQL chatbot that lets users upload their own database and ask ques
     export MISTRAL_API_KEY="<your-api-key>"
 
 
-## ▶️ Usage
+## ▶️ Usage
 
 Run the app locally:
-    ```bash
+    
     streamlit run app.py
 
 
