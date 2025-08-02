@@ -1,0 +1,11 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite
+*.db
+*.sqlite3
